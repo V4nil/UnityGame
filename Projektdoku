@@ -1,1 +1,192 @@
+# Projekt-Dokumentation
+
+
+
+Filip Mitrovic, Lennard Bühler, Raul Gilardoni und Filip Kritzner
+
+| Datum | Version | Zusammenfassung                                              |
+| ----- | ------- | ------------------------------------------------------------ |
+|   15.09.2023    | 0.0.1   | Die Gruppe hat sich intensiv mit Unity auseinandergesetzt, sowohl durch YouTube-Tutorials als auch mithilfe von Online-Ressourcen, und bereits einige Funktionen erfolgreich implementiert.|
+|  22.09.2023  | 0.0.2   | Die Gruppe hat mit Unity experimentiert, um zu erkunden, welche Möglichkeiten es bietet, und zusätzliche kleine Funktionen in das Spiel integriert.                                   |
+
+## 1 Informieren
+
+### 1.1 Ihr Projekt
+
+In unserem Unity-Spiel handelt es sich um ein Run-and-Shoot-Spiel, bei dem der Spieler von einem Zombie gejagt wird und versuchen muss, ihm zu entkommen. Auf dem Weg begegnen dem Spieler 
+kontinuierlich lebende Kugeln, die zerstört werden müssen. Durch das Zerstören dieser Kugeln wird die Waffenstärke des Spielers erhöht, was das Zerstören der Kugeln beschleunigt. Wir wollen außerdem
+auch Animationen und Soundeffekte hinzufügen, 
+um das Spielerlebnis zu verbessern. Das Spiel ist in 3D gestaltet und endet mit einem Endboss-Kampf, den der Spieler besiegen muss, um die Runde zu gewinnen.
+
+
+### 1.2 User Stories
+
+| US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
+| ---- | --------------- | ---- | ---------------------------------- |
+| 1    |       kann         |   funktional   | Als User möchte ich das  |
+| 2  |          muss       |  funktional    |   Als User möchte ich das                                  |
+|3|          muss       |   funktional   |   Als User möchte ich das                                   |
+|  4 |          muss       |  funktional    |    Als User möchte ich                             |
+| 5  |          kann       |  funktional    |     Als User möchte ich                           |
+| 6 |          kann       |    funktional  |    Als User möchte ich                             |
+| 7  |          kann       |  funktional    |      Als User möchte ich                                |
+| 8 |          kann       |  funktional    |    Als User möchte ich                               |
+| 9  |          kann       |  funktional    |     Als User möchte ich                             |
+| 10 |          muss       |   funktional   |      Als User möchte ich das                              |
+| 11 |          muss       |   funktional   |   Als User möchte ich dass                             |
+| 12 |          muss       |   funktional   |   Als User möchte ich das                              |
+| 13 |          muss       |   funktional   |   Als User möchte ich das                                 |
+| 14 |          muss       |   funktional   |   Als User möchte ich das                             |
+| 15 |       kann         |   funktional   |  Als User möchte ich  |
+|16|kann|funktional|Als User möchte ich,  |
+
+
+
+
+
+
+
+
+
+
+### 1.3 Testfälle
+
+| TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
+| ---- | ------------ | ------- | ----------------- |
+| 1.1  |      Programm wird geöffnet        |  Der User wählt eine Schwierigkeit aus       |   Der Gegner im nächsten spiel hat diese Schwierigkeit                |
+| 2.1  |     User ist im Spiel         |  keine       |     Seine Punkte werden angezeigt              |
+| 3.1  |    User ist im Spiel          |   keine      |     Punkte des Gegners werden angezeigt              |
+| 4.1  |      Programm wird geöffnet         |  User wählt Ballfarbe aus       |    Die ausgewählte Ballfarbe wird im nächsten Spiel benutzt               |
+| 5.1  |      Programm wird geöffnet          |   User wählt Blockstabfarbe aus       |  Die ausgewählte Blockstabfarbe auf seiner Seite wird im nächsten Spiel benutzt                 |
+| 6.1  |    Programm wird geöffnet            |   Der User wählt die Blockstabfarbe für seinen Gegner aus      |  Die ausgewählte Blockstabfarbe auf der gegner Seite wird im nächsten Spiel benutzt                  |
+| 7.1  |     User ist im Spiel         | Punkt wird gemacht        |      Sound wird abgespielt             |
+| 8.1  |    Programm wird geöffnet           |   Ballgeschwindigkeit wird ausgewählt      |   Die ausgewählte Ballgeschwindigkeit wird im nächsten Spiel benutzt                 |
+| 9.1  |     Spiel wird gestartet         |  Keine       |     Musik wird abgespielt              |
+| 10.1  |    Spiel wird gestartet          |   Keine      |   Ball bewegt sich frei                |
+| 11.1  |   Spiel wird gestartet           | User steuert Blockstab        |  Blockstab bewegt sich vertikal                 |
+| 12.1  |    Spiel wird gestartet          | Ball kommt mit Decke oder Boden in Kontakt        |   Ball Prallt ab                |
+| 13.1  |   Spiel wird gestartet           | Keine        |  Nachdem der erste Spieler 10 Punkte erreicht hat, spiel beendet                 |
+| 14.1  |     Spiel wird gestartet        |  Keine       |Spiel wird spätestens nach 5 Minuten beendet                   |
+|15.1|Spiel wird gestartet|User wält Hintergrundfarbe aus|Der Hintergrund bekommt die Ausgewählte Farbe.|
+|16.1|User ist im Spiel|keine|Schwierigkeitsgrad des Spieles wird nach mindestens 5 erzielten Toren erhöht.|
+
+
+### 1.4 Diagramme
+
+
+
+
+## 2 Planen
+
+| AP-№ | Zuständig | Beschreibung | geplante Zeit |
+| ---- |  --------- | ------------ | ------------- |
+| 1.A  |           Lennard Bühler       |  Der User wird nach dem Namen gefragt            |   30 Min            |
+| 2.A  |         Lennard Bühler          |  Der User kann die Hintergrundfarbe bestimmen           |    50 Min           |
+| 3.A  |           Lennard Bühler        |  Der User kann seinem Gegner einen Namen geben           |  30 Min             |
+| 4.A  |           Lennard Bühler        |   Der User hat die Auswahl aus verschiedenen Ball geschwindigkeiten          |  90 Min             |
+| 5.A  |          Lennard Bühler        |  Im Spiel werden die Punkte des Users gezählt           |    50 Min           |
+| 6.A  |           Lennard Bühler        |  Im Spiel werden die Punkte des Gegners gezählt            |   50 Min            |
+| 7.A  |          Filip Mitrovic        | Ballfarbe kann bestimmt werden|30 Min.|
+| 8.A  |         Filip Mitrovic         |  Blockstabfarbe des Gegners kann bestimmt werden| 20 Min.              |
+| 9.A  |         Filip Mitrovic        | Es hat ein Zeitlimit bis das Spiel beendet wird             |    20 Min.           |
+| 10.A  |          Filip Mitrovic      | Blockstäbe können nur Vertikal bewegt werden.             |     45 Min.          |
+| 11.A  |            Filip Mitrovic    | Ball prallt von der Decke und Boden ab.             |      40 Min.         |
+| 12.A  |           Filip Mitrovic    | Schwierigkeitgrad kann verändert werden.             |    20 Min.           |
+| 13.A  |              | Sound wird nach einem Tor abgespielt             |     50 min          |
+| 14.A  |            |  Blockstabfarbe des Users kann bestimmt werden            |  15 Min.             |
+| 15.A  |             |     User hat eine Auswahl von Sounds die abgespielt werden können beim erzielen eines Punktes.         |     45 Min.          |
+| 16.A  |            |    Der Winkel mit dem der Ball vom Blockstab abprallt soll sich ändern je weiter oben oder unten der Ball auf den Blockstab trifft.          |        20Min.       |
+| 17.A  |            |   Das Spiel soll im Vollbildmodus spielbar sein.           |     20 Min.          |
+| 18.A  |           |Hintergrundfarben bestimmen können              |   60 Min.            |
+| 19.A  |               |  Hintergrundfarbe nach jedem Spiel ändern können            |      30 Min.         |              
+| 20.A  |             |  Hintergründe mit mehreren Farben wählen können            |      50 Min.         |
+| 21.A  |               |  Wenn Hintergrund mit mehreren Farben gewählt wird und nur eine Ausgesucht wird, Fehler eingabe            |     20 Min.          |
+| 22.A  |             |  Hintergrundmuster auswählen könne            |   40 Min.            |
+| 23.A  |            | Maximal 1 Hintergrundmuster möglich machen             |     30 Min          |
+| 24.A  |               | Das Spiel nach 10 Punkten beendet wird     | 30 Min.    |
+| 25.A  |            | Das Spiel nach 5 Min. beendet wird, wenn keine 10 Punkte|  45 Min.             |
+| 26.A  |           | Der Ball sich bewegen kann       | 45 Min.              |
+| 27.A  |             | Es nach einem Punkt weiter geht, mit Anstoss       | 30 Min.              |
+| 29.A  |              | Der Sieger am Ende des Spiels bestimmt wird             |  45 Min.             |
+| 30.A  |             | Die Punkte Angezeigt werden             | 45 Min.              |
+|31.A|    Filip Mitrovic|Der Schwierigkeitsgrad des Spieles wird nach 5 erzielten Toren erhöht.|15 Min.|      
+|Total|    |      |   1155 min     |
+
+
+
+
+## 3 Entscheiden
+
+Wir haben uns entschieden einen Timer einzubauen, da uns dies schon im letzten Projekt gut gelungen ist.
+
+Wir haben uns entschieden ein System einzubauen, dass bei 10 erzielten Punkten das Spiel beendet, damit das Spiel auch ein Punktlimit besitzt.
+
+
+## 4 Realisieren
+
+| AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
+| ---- | ----- | --------- | ------------- | ----------------- |
+| 1.A  |         |    Lennard Bühler       |      30 min         |        25 min           |
+| 2.A  |        |    Lennard Bühler       |      50 min         |     40 min              |
+| 3.A  |        |     Lennard Bühler      |       30 min        |       40 min            |
+| 4.A  |       |     Lennard Bühler      |        90 min       |        80 min           |
+| 5.A  |       |      Lennard Bühler     |      50 min         |         40 min          |
+| 6.A  |        |      Lennard Bühler     |       50 min        |         40 min          |
+| 7.A  |       |     Filip Mitrovic      |       30 min        |        30 min           |
+| 8.A  |        |      Filip Mitrovic     |       20 min        |         20 min          |
+| 9.A  |        |      Filip Mitrovic     |       20 min        |         30 min          |
+| 10.A |        |      Filip Mitrovic     |     45 min          |       40 min            |
+| 11.A |        |      Filip Mitrovic     |       40 min        |      35 min             |
+| 12.A |        |       Filip Mitrovic    |         20 min      |       25 min            |
+| 13.A |        |        |           50 min    |      45 min             |
+| 14.A |        |         |       15 min        |       20 min            |
+| 15.A |        |          |         45 min      |         40 min          |
+| 16.A |       |         |        20 min       |          20 min         |
+| 17.A |        |          |          20 min     |         25 min          |
+| 18.A |        |          |        60 min     |          60 min         |
+| 19.A |        |        |      30 min         |        25 min           |
+| 20.A |       |         |         50 min      |       45 min            |
+| 21.A |        |          |     20 min          |       25 min            |
+| 22.A |       |          |     40 min          |       45 min            |
+| 23.A |        |         |      30 min         |       35 min            |
+| 24.A |      |         |      30 min         |       40 min            |
+| 25.A |    |            |        45 min       |      40 min             |
+| 26.A |        |          |     45 min          |    40 min               |
+| 27.A |      |          |        45 min       |      50 min             |
+| 28.A |       |            |       30 min        |     20 min              |
+| 29.A |      |            |        45 min       |     30 min              |
+| 30.A |       |           |       45 min        |      50 min             |
+| 31.A |       |     Filip Mitrovic      |      15 min         |      20 min             |
+|Total|       |        |      1155 min    |   1080 min    |
+
+
+
+## 5 Kontrollieren
+
+### 5.1 Testprotokoll
+
+| TC-№ | Datum | Resultat | Tester |
+| ---- | ----- | -------- | ------ |
+| 1.1  |    13.12.2022   |     Funktioniert nicht     |  Mitrovic+Meister      |
+| 2.1  |     13.12.2022   |    Funktioniert      |   Mitrovic+Meister     |
+| 3.1  |     13.12.2022   |     Funktioniert     |    Mitrovic+Meister    |
+| 4.1  |     13.12.2022   |      Funktioniert nicht    |    Mitrovic+Meister    |
+| 5.1  |    13.12.2022    |       Funktioniert nicht   |    Mitrovic+Meister    |
+| 6.1  |    13.12.2022    |     Funktioniert nicht    |    Mitrovic+Meister    |
+| 7.1  |    13.12.2022    |    Funktioniert nicht      |    Mitrovic+Meister    |
+| 8.1  |    13.12.2022    |      Funktioniert nicht    |    Mitrovic+Meister    |
+| 9.1  |    13.12.2022    |    Funktioniert      |    Mitrovic+Meister    |
+| 10.1  |    13.12.2022    |   Funktioniert       |   Mitrovic+Meister     |
+| 11.1  |     13.12.2022   |     Funktioniert     |   Mitrovic+Meister     |
+| 12.1  |     13.12.2022   |      Funktioniert    |   Mitrovic+Meister     |
+| 13.1  |     13.12.2022   |   Funktioniert       |   Mitrovic+Meister     |
+| 14.1  |     13.12.2022   |    Funktioniert      |   Mitrovic+Meister     |
+| 15.1  |      13.12.2022  |     Funktioniert nicht    |   Mitrovic+Meister     |
+| 16.1  |      13.12.2022  |     Funktioniert     |   Mitrovic+Meister     |
+
+`Fazit:`
+
+Die wichtigsten Teile des Programmes sind mit Erfolg ausgegangen, somit ist unser Programm spielbar. Doch Leider konnten wir wegen geringer Zeit nicht alle unsere Wünsche für das Programm erfüllen.
+
+## 6 Auswerten
 
