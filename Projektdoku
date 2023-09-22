@@ -19,26 +19,25 @@ auch Animationen und Soundeffekte hinzufügen,
 um das Spielerlebnis zu verbessern. Das Spiel ist in 3D gestaltet und endet mit einem Endboss-Kampf, den der Spieler besiegen muss, um die Runde zu gewinnen.
 
 
+
+
 ### 1.2 User Stories
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |       kann         |   funktional   | Als User möchte ich das  |
-| 2  |          muss       |  funktional    |   Als User möchte ich das                                  |
-|3|          muss       |   funktional   |   Als User möchte ich das                                   |
-|  4 |          muss       |  funktional    |    Als User möchte ich                             |
-| 5  |          kann       |  funktional    |     Als User möchte ich                           |
-| 6 |          kann       |    funktional  |    Als User möchte ich                             |
-| 7  |          kann       |  funktional    |      Als User möchte ich                                |
-| 8 |          kann       |  funktional    |    Als User möchte ich                               |
-| 9  |          kann       |  funktional    |     Als User möchte ich                             |
-| 10 |          muss       |   funktional   |      Als User möchte ich das                              |
-| 11 |          muss       |   funktional   |   Als User möchte ich dass                             |
-| 12 |          muss       |   funktional   |   Als User möchte ich das                              |
-| 13 |          muss       |   funktional   |   Als User möchte ich das                                 |
-| 14 |          muss       |   funktional   |   Als User möchte ich das                             |
-| 15 |       kann         |   funktional   |  Als User möchte ich  |
-|16|kann|funktional|Als User möchte ich,  |
+| 1    |       muss         |   funktional   | Als Spieler möchte ich in der Lage sein, mich zu bewegen, um dem Zombie zu entkommen. |
+| 2  |          muss       |  funktional    |   Als Spieler möchte ich die Fähigkeit haben, meine Waffe abzufeuern, um die Kugeln zu zerstören.                                 |
+|3|          kann       |   funktional   |   Als Spieler möchte ich die Option haben, die Schwierigkeit des Spiels auszuwählen, um die Herausforderung anzupassen.                                   |
+|  4 |          muss       |  funktional    |    Als Spieler möchte ich, dass die Waffe an Stärke gewinnt, wenn ich Kugeln zerstöre, damit ich den Endboss umbringen kann und die Runde gewinne.                             |
+| 5  |          kann       |  funktional    |     Als Spieler möchte ich die Möglichkeit haben, meine Waffe zu verbessern, um die Kugeln schneller zu zerstören.                           |
+| 6 |          kann       |    funktional  |    Als Spieler möchte ich Animationen für Bewegungen und Aktionen im Spiel haben, um die Immersion zu steigern.                             |
+| 7  |          kann       |  funktional    |      Als Spieler möchte ich Soundeffekte im Spiel haben, um die Spielatmosphäre zu verbessern.                               |
+| 8  |          kann       |  funktional    |     Als Spieler möchte ich visuelle Effekte im Spiel haben, um die Spielszenen dynamischer zu gestalten.                              |
+| 9 |          muss       |   funktional   |      Als Spieler möchte ich das Spiel in 3D erleben, um ein immersiveres Spielerlebnis zu haben.                               |
+| 10 |          muss       |   funktional   |   Als Spieler möchte ich einen Endboss-Gegner am Ende des Spiels besiegen müssen, um die Runde zu gewinnen.                            |
+| 11 |          kann       |   funktional   |   Als Spieler möchte ich Belohnungen für das Zerstören von Kugeln erhalten, um meine Spielfortschritte zu steigern. (Sowie Münzen erhalten)                                 |
+| 12 |       kann         |   funktional   |  Als Spieler möchte ich verschiedene Spielmodi zur Auswahl haben, um das Spiel abwechslungsreicher zu gestalten.  |
+|13  |kann|funktional|Als Spieler möchte ich, dass sich die Umgebung im Spiel verändert, um unterschiedliche Herausforderungen und Strategien zu bieten. |
 
 
 
