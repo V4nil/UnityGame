@@ -119,33 +119,33 @@ Diese Entscheidung ermöglicht es uns, ein unterhaltsames Spielprojekt zu realis
 
 | AP-№ | Datum       | Zuständig        | Geplante Zeit | Tatsächliche Zeit |
 | ---- | ----------- | ---------------- | ------------- | ------------------ |
-| 1.1  | 22.09.2023  | Filip Mitrovic   | 60 Min        |                  |
-| 1.2  | 22.09.2023  | Raul Gilardoni   | 60 Min        |                  |
-| 1.3  | 22.09.2023  | Filip Mitrovic   | 60 Min        |                  |
-| 2.1  | 22.09.2023  | Raul Gilardoni   | 60 Min        |                  |
-| 2.2  | 22.09.2023  | Lennard Bühler   | 60 Min        |                  |
-| 2.3  | 22.09.2023  | Lennard Bühler   | 60 Min        |                  |
-| 2.4  | 22.09.2023  | Filip Kritzner   | 60 Min        |                  |
-| 2.5  | 22.09.2023  | Filip Mitrovic   | 60 Min        |                  |
-| 3.1  | 22.09.2023  | Raul Gilardoni   | 60 Min        |                  |
-| 3.2  | 22.09.2023  | Filip Mitrovic   | 60 Min        |                  |
-| 3.3  | 22.09.2023  | Lennard Bühler   | 60 Min        |                  |
-| 4.1  | 22.09.2023  | Filip Kritzner   | 60 Min        |                  |
-| 4.2  | 22.09.2023  | Filip Mitrovic   | 60 Min        |                  |
-| 4.3  | 22.09.2023  | Lennard Bühler   | 60 Min        |                  |
-| 5.1  | 22.09.2023  | Filip Kritzner   | 60 Min        |                  |
-| 5.2  | 22.09.2023  | Filip Kritzner   | 60 Min        |                  |
-| 5.3  | 22.09.2023  | Filip Kritzner   | 60 Min        |                  |
-| 6.1  | 22.09.2023  | Raul Gilardoni   | 60 Min        |                  |
-| 6.2  | 22.09.2023  | Raul Gilardoni   | 60 Min        |                  |
-| 7.1  | 22.09.2023  | Lennard Bühler   | 60 Min        |                  |
-| 7.2  | 22.09.2023  | Filip Kritzner   | 60 Min        |                  |
-| 8.1  | 22.09.2023  | Lennard Bühler   | 60 Min        |                  |
-| 8.2  | 22.09.2023  | Filip Mitrovic   | 60 Min        |                  |
-| 9.1  | 22.09.2023  | Filip Kritzner   | 60 Min        |                  |
-| 9.2  | 22.09.2023  | Filip Mitrovic   | 60 Min        |                  |
-| 10.1 | 22.09.2023  | Lennard Bühler   | 60 Min        |                  |
-| 10.2 | 22.09.2023  | Filip Kritzner   | 60 Min        |                  |
+| 1.1  | 22.09.2023  | Filip Mitrovic   | 60 Min        |   50 min               |
+| 1.2  | 22.09.2023  | Raul Gilardoni   | 60 Min        |   60 min               |
+| 1.3  | 22.09.2023  | Filip Mitrovic   | 60 Min        |   50 min                 |
+| 2.1  | 22.09.2023  | Raul Gilardoni   | 60 Min        |   65 min               |
+| 2.2  | 22.09.2023  | Lennard Bühler   | 60 Min        |   60 min               |
+| 2.3  | 22.09.2023  | Lennard Bühler   | 60 Min        |   50 min                 |
+| 2.4  | 22.09.2023  | Filip Kritzner   | 60 Min        |   60 min               |
+| 2.5  | 22.09.2023  | Filip Mitrovic   | 60 Min        |   65 min              |
+| 3.1  | 22.09.2023  | Raul Gilardoni   | 60 Min        |   50 min                 |
+| 3.2  | 22.09.2023  | Filip Mitrovic   | 60 Min        |    65 min              |
+| 3.3  | 22.09.2023  | Lennard Bühler   | 60 Min        |    60 min               |
+| 4.1  | 22.09.2023  | Filip Kritzner   | 60 Min        |    65 min              |
+| 4.2  | 22.09.2023  | Filip Mitrovic   | 60 Min        |    65 min             |
+| 4.3  | 22.09.2023  | Lennard Bühler   | 60 Min        |    50 min                |
+| 5.1  | 22.09.2023  | Filip Kritzner   | 60 Min        |    65 min             |
+| 5.2  | 22.09.2023  | Filip Kritzner   | 60 Min        |    50 min                |
+| 5.3  | 22.09.2023  | Filip Kritzner   | 60 Min        |    70 min              |
+| 6.1  | 22.09.2023  | Raul Gilardoni   | 60 Min        |    60 min               |
+| 6.2  | 22.09.2023  | Raul Gilardoni   | 60 Min        |    70 min              |
+| 7.1  | 22.09.2023  | Lennard Bühler   | 60 Min        |    60 min               |
+| 7.2  | 22.09.2023  | Filip Kritzner   | 60 Min        |    60 min               |
+| 8.1  | 22.09.2023  | Lennard Bühler   | 60 Min        |    60 min               |
+| 8.2  | 22.09.2023  | Filip Mitrovic   | 60 Min        |     70 min             |
+| 9.1  | 22.09.2023  | Filip Kritzner   | 60 Min        |     50 min               |
+| 9.2  | 22.09.2023  | Filip Mitrovic   | 60 Min        |     60 min              |
+| 10.1 | 22.09.2023  | Lennard Bühler   | 60 Min        |     50 min               |
+| 10.2 | 22.09.2023  | Filip Kritzner   | 60 Min        |     60 min              |
 
 
 
