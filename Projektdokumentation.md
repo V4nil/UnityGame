@@ -166,7 +166,7 @@ Diese Entscheidung ermöglicht es uns, ein unterhaltsames Spielprojekt zu realis
 | 4.1  | 22.09.2023  | Funktioniert   | Mitrovic+Kritzner |
 | 4.2  | 22.09.2023  | Funktioniert   | Mitrovic+Kritzner |
 | 5.1  | 22.09.2023  | Funktioniert   | Mitrovic+Kritzner |
-| 6.1  | 22.09.2023  | Funktioniert   | Mitrovic+Kritzner |
+| 6.1  | 22.09.2023  | Funktioniert nicht | Mitrovic+Kritzner |
 | 7.1  | 22.09.2023  | Funktioniert   | Mitrovic+Kritzner |
 | 8.1  | 22.09.2023  | Funktioniert   | Mitrovic+Kritzner |
 | 9.1  | 22.09.2023  | Funktioniert   | Mitrovic+Kritzner |
