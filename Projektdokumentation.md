@@ -67,6 +67,7 @@ um das Spielerlebnis zu verbessern. Das Spiel ist in 3D gestaltet und endet mit 
 
 ### 1.4 Diagramme
 
+![image](https://github.com/cornhub-57/UnityGame/assets/110892649/92e1d775-c2ee-483b-a274-38bde29cfe78)
 
 
 
