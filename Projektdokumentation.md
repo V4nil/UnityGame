@@ -8,6 +8,8 @@ Filip Mitrovic, Lennard Bühler, Raul Gilardoni und Filip Kritzner
 | ----- | ------- | ------------------------------------------------------------ |
 |   15.09.2023    | 0.0.1   | Die Gruppe hat sich intensiv mit Unity auseinandergesetzt, sowohl durch YouTube-Tutorials als auch mithilfe von Online-Ressourcen, und bereits einige Funktionen erfolgreich implementiert.|
 |  22.09.2023  | 0.0.2   | Die Gruppe hat mit Unity experimentiert, um zu erkunden, welche Möglichkeiten es bietet, und zusätzliche kleine Funktionen in das Spiel integriert.                                   |
+|  27.10.2023  | 0.0.3   | Die Gruppe hat grosse Fortschritte beim Spiel gemacht.                                |
+|  03.11.2023  | 1.0.0   | Spiel ist fertig und spielbar.                           |
 
 ## 1 Informieren
 
