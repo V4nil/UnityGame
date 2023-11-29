@@ -34,9 +34,9 @@ um das Spielerlebnis zu verbessern. Das Spiel ist in 3D gestaltet und endet mit 
 | 5  |          kann       |  funktional    |     Als Spieler möchte ich die Möglichkeit haben, meine Waffe zu verbessern, um die Kugeln schneller zu zerstören.                           |
 | 6 |          kann       |    funktional  |    Als Spieler möchte ich Animationen für Bewegungen und Aktionen im Spiel haben, um die Immersion zu steigern.                             |
 | 7  |          kann       |  funktional    |      Als Spieler möchte ich Soundeffekte im Spiel haben, um die Spielatmosphäre zu verbessern.                               |
-| 8  |          kann       |  funktional    |     Als Spieler möchte ich visuelle Effekte im Spiel haben, um die Spielszenen dynamischer zu gestalten.                              |
-| 9 |          muss       |   funktional   |      Als Spieler möchte ich das Spiel in 3D erleben, um ein immersiveres Spielerlebnis zu haben.                               |
-| 10 |          muss       |   funktional   |   Als Spieler möchte ich einen Endboss-Gegner am Ende des Spiels besiegen müssen, um die Runde zu gewinnen.                            |
+| 8  |          kann       |  funktional    |     Als Spieler möchte ich visuelle Effekte im Spiel haben, um die Spielszenen dynamischer zu gestalten.                             |
+| 9 |          muss       |   funktional   |      Als Spieler möchte ich das Spiel in 3D erleben, um ein immersiveres Spielerlebnis zu haben.                              |
+| 10 |          muss       |   funktional   |   Als Spieler möchte ich einen Endboss-Gegner am Ende des Spiels besiegen müssen, um die Runde zu gewinnen.                           |
 | 11 |          kann       |   funktional   |   Als Spieler möchte ich Belohnungen für das Zerstören von Kugeln erhalten, um meine Spielfortschritte zu steigern. (Sowie Münzen erhalten)                                 |
 | 12 |       kann         |   funktional   |  Als Spieler möchte ich verschiedene Spielmodi zur Auswahl haben, um das Spiel abwechslungsreicher zu gestalten.  |
 |13  |kann|funktional|Als Spieler möchte ich, dass sich die Umgebung im Spiel verändert, um unterschiedliche Herausforderungen und Strategien zu bieten. |
