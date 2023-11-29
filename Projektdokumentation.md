@@ -139,16 +139,16 @@ Diese Entscheidung ermöglicht es uns, ein unterhaltsames Spielprojekt zu realis
 | 5.1  | 22.09.2023  | Filip Kritzner   | 60 Min        |  70 Min                |
 | 5.2  | 22.09.2023  | Filip Kritzner   | 60 Min        |  50 Min                |
 | 5.3  | 22.09.2023  | Filip Kritzner   | 60 Min        |  55 Min                |
-| 6.1  | 22.09.2023  | Raul Gilardoni   | 60 Min        |        65 Min          |
+| 6.1  | 22.09.2023  | Raul Gilardoni   | 60 Min        |        60 Min          |
 | 6.2  | 22.09.2023  | Raul Gilardoni   | 60 Min        |   60 Min               |
 | 7.1  | 22.09.2023  | Lennard Bühler   | 60 Min        |   60 Min               |
 | 7.2  | 22.09.2023  | Filip Kritzner   | 60 Min        |    75 Min              |
-| 8.1  | 22.09.2023  | Lennard Bühler   | 60 Min        |    100 Min              |
+| 8.1  | 22.09.2023  | Lennard Bühler   | 60 Min        |    110 Min              |
 | 8.2  | 22.09.2023  | Filip Mitrovic   | 60 Min        |    60 Min              |
 | 9.1  | 22.09.2023  | Filip Kritzner   | 60 Min        |  50 Min                |
 | 9.2  | 22.09.2023  | Filip Mitrovic   | 60 Min        |  45 Min                |
 | 10.1 | 22.09.2023  | Lennard Bühler   | 60 Min        |   50 Min               |
-| 10.2 | 22.09.2023  | Filip Kritzner   | 60 Min        |  80 Min                |
+| 10.2 | 22.09.2023  | Filip Kritzner   | 60 Min        |  85 Min                |
 
 
 
