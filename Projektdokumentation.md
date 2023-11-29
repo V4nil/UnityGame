@@ -104,7 +104,7 @@ um das Spielerlebnis zu verbessern. Das Spiel ist in 3D gestaltet und endet mit 
 | 9.1  | Filip Kritzner | Implementierung verschiedener Spielmodi           | 60 Min        |
 | 9.2  | Filip Mitrovic | Implementierung von Koop- und Mehrspielermodi     | 60 Min        |
 | 10.1 | Lennard Bühler | Implementierung von Umgebungsveränderungen         | 60 Min        |
-| 10.2 | Filip Kritzner | Implementierung von Tages- und Nachtzyklus         | 60 Min        |
+| 10.2 | Filip Kritzner | Implementierung von Tages- und Nachtzyklus         | 60 Min       |
 
 
 
