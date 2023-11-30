@@ -93,13 +93,13 @@ um das Spielerlebnis zu verbessern. Das Spiel ist in 3D gestaltet und endet mit 
 | 4.2  | Filip Mitrovic  | Implementierung von Aktionsanimationen             | 60 Min        |
 | 4.3  | Lennard Bühler | Implementierung von Tod- und Siegesanimationen     | 60 Min        |
 | 5.1  | Filip Kritzner | Implementierung von Soundeffekten                 | 60 Min        |
-| 5.2  | Filip Kritzner | Implementierung von visuellen Effekten            | 60 Min        |
+| 5.2  | Raul Gilardoni | Implementierung von visuellen Effekten            | 60 Min        |
 | 5.3  | Filip Kritzner | Implementierung von Umgebungsgeräuschen           | 60 Min        |
 | 6.1  | Raul Gilardoni | Implementierung des 3D-Spielerlebnisses           | 60 Min        |
 | 6.2  | Raul Gilardoni | Implementierung von Umgebungsdetails             | 60 Min        |
 | 7.1  | Lennard Bühler | Implementierung des Endboss-Gegners               | 60 Min        |
 | 7.2  | Filip Kritzner | Implementierung des Endboss-Kampfmechanik          | 60 Min        |
-| 8.1  |Lennard Bühler | Implementierung von Belohnungen für Kugelzerstörung| 60 Min        |
+| 8.1  |Raul Giladoni| Implementierung von Belohnungen für Kugelzerstörung| 60 Min        |
 | 8.2  | Filip Mitrovic  | Implementierung von Belohnungen für Endboss-Sieg   | 60 Min        |
 | 9.1  | Filip Kritzner | Implementierung verschiedener Spielmodi           | 60 Min        |
 | 9.2  | Filip Mitrovic | Implementierung von Koop- und Mehrspielermodi     | 60 Min        |
@@ -137,13 +137,13 @@ Diese Entscheidung ermöglicht es uns, ein unterhaltsames Spielprojekt zu realis
 | 4.2  | 22.09.2023  | Filip Mitrovic   | 60 Min        |  45 Min                |
 | 4.3  | 22.09.2023  | Lennard Bühler   | 60 Min        |  65 Min                |
 | 5.1  | 22.09.2023  | Filip Kritzner   | 60 Min        |  70 Min                |
-| 5.2  | 22.09.2023  | Filip Kritzner   | 60 Min        |  50 Min                |
+| 5.2  | 22.09.2023  | Raul Gilardoni   | 60 Min        |  50 Min                |
 | 5.3  | 22.09.2023  | Filip Kritzner   | 60 Min        |  55 Min                |
 | 6.1  | 22.09.2023  | Raul Gilardoni   | 60 Min        |        60 Min          |
 | 6.2  | 22.09.2023  | Raul Gilardoni   | 60 Min        |   60 Min               |
 | 7.1  | 22.09.2023  | Lennard Bühler   | 60 Min        |   60 Min               |
 | 7.2  | 22.09.2023  | Filip Kritzner   | 60 Min        |    75 Min              |
-| 8.1  | 22.09.2023  | Lennard Bühler   | 60 Min        |    110 Min              |
+| 8.1  | 22.09.2023  | Raul Gilardoni   | 60 Min        |    110 Min              |
 | 8.2  | 22.09.2023  | Filip Mitrovic   | 60 Min        |    60 Min              |
 | 9.1  | 22.09.2023  | Filip Kritzner   | 60 Min        |  50 Min                |
 | 9.2  | 22.09.2023  | Filip Mitrovic   | 60 Min        |  45 Min                |
